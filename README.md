@@ -7,5 +7,7 @@ Create a new variable of the type you want Number/String then go to Functions an
 # Choose::RandomNumber 
 and set the values you want to randomize separated by commas.
 Done.
+
 Check a mini tutorial: https://youtu.be/h0uLECuAwko
+
 Here the project: https://drive.google.com/file/d/1ydRdbEsFX-MVKaWv6lpq7GAeWEkBQiCr
